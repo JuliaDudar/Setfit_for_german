@@ -1,7 +1,7 @@
 # Setfit
 
 
-Code and textual data to document the "Fine-Tuned SetFit Model for Classifying Sentences from German Novels into Character and Narrator Speech". 
+Code and textual data to document the "Fine-Tuned SetFit Model for Classifying Sentences from German Novels into Character and Narrator Speech". Originally created for French Novels by Christof Schöch, see https://gitlab.rlp.net/dhtrier/research/setfit 
 
 One model is optimized for third-person (heterodiegetic) narrative. 
 
